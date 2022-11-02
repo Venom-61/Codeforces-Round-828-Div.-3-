@@ -4,6 +4,7 @@ using namespace std;
 #define ll long long
 
 // D. Divisibility by 2^n 
+//
 
 void solve() {
     int n;
